@@ -1,14 +1,14 @@
 {
-    "name": "My Website",
-    "short_name": "Website",
-    "description": "Description of your website",
+    "name": "SMLE Calc",
+    "short_name": "SMLE Calc",
+    "description": "Saudi Matching Calculation",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007BFF",
     "icons": [
         {
-            "src": "icon.png",
+            "src": "https://scfhs.org.sa/sites/default/files/2022-01/خدمة%20حساب%20النسبة%20المئوية%20المعادلة%20للدرجة%20الموزونة.png",
             "sizes": "192x192",
             "type": "image/png"
         }
